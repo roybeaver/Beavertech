@@ -1,0 +1,40 @@
+img{
+	max-width: 100%;
+}
+.quitar-float{
+	float: none;
+}
+.espacio-arriba{
+	margin-top: 100px;
+}
+.roboto {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.barcodetext{
+font-family: 'Libre Barcode 128 Text', cursive;
+}
+.grisperla {
+	color: #34495E;
+}
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+
+.no-lista li{
+     list-style-type: none; 
+}
+.se-gris{
+	background-color:#839192 ;
+}
+.padding-largo{
+	padding: 5px 10px;
+}
+.inline-block{
+	float:none;
+	display: inline-block;
+	margin-right: -4px;
+}
+.fondorojo{
+	background-color: #D35400;
+}
